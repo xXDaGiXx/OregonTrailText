@@ -1,0 +1,23 @@
+﻿  OregonTrailText.cpp
+E:\Code\LocalTests\C++\OregonTrailText\OregonTrailText.cpp(194,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Code\LocalTests\C++\OregonTrailText\OregonTrailText.cpp(729,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Code\LocalTests\C++\OregonTrailText\OregonTrailText.cpp(732,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Code\LocalTests\C++\OregonTrailText\OregonTrailText.cpp(993,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Code\LocalTests\C++\OregonTrailText\OregonTrailText.cpp(1000,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Code\LocalTests\C++\OregonTrailText\OregonTrailText.cpp(1249,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Code\LocalTests\C++\OregonTrailText\OregonTrailText.cpp(1256,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Code\LocalTests\C++\OregonTrailText\OregonTrailText.cpp(1263,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Code\LocalTests\C++\OregonTrailText\OregonTrailText.cpp(1279,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Code\LocalTests\C++\OregonTrailText\OregonTrailText.cpp(1311,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Code\LocalTests\C++\OregonTrailText\OregonTrailText.cpp(1319,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Code\LocalTests\C++\OregonTrailText\OregonTrailText.cpp(1334,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Code\LocalTests\C++\OregonTrailText\OregonTrailText.cpp(2344,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Code\LocalTests\C++\OregonTrailText\OregonTrailText.cpp(2939): warning C4715: 'end': not all control paths return a value
+E:\Code\LocalTests\C++\OregonTrailText\OregonTrailText.cpp(946): warning C4715: 'peopleAndMisfortunes::rRest': not all control paths return a value
+E:\Code\LocalTests\C++\OregonTrailText\OregonTrailText.cpp(670): warning C4715: 'dateAndLocation::getMonthName': not all control paths return a value
+E:\Code\LocalTests\C++\OregonTrailText\OregonTrailText.cpp(1244): warning C4715: 'peopleAndMisfortunes::animalName': not all control paths return a value
+E:\Code\LocalTests\C++\OregonTrailText\OregonTrailText.cpp(462): warning C4715: 'supplies::setHuntingBullets': not all control paths return a value
+E:\Code\LocalTests\C++\OregonTrailText\OregonTrailText.cpp(1306): warning C4715: 'peopleAndMisfortunes::rName': not all control paths return a value
+E:\Code\LocalTests\C++\OregonTrailText\OregonTrailText.cpp(989): warning C4715: 'peopleAndMisfortunes::disease': not all control paths return a value
+E:\Code\LocalTests\C++\OregonTrailText\OregonTrailText.cpp(919): warning C4715: 'peopleAndMisfortunes::misfortune': not all control paths return a value
+  OregonTrailText.vcxproj -> E:\Code\LocalTests\C++\OregonTrailText\x64\Debug\OregonTrailText.exe
